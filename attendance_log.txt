@@ -1,0 +1,13 @@
+Attendance Report
+Generated on: 18-11-2025 15:50:55
+
+Student Name        	Check-in Time
+---------------------------------------------
+Khushi Nagpal       	9:10 AM
+Tanya Bhatia        	9:10 AM
+Vishakha Gaur       	9:20 AM
+Nitin               	9:00 AM
+Tushar Singh        	10:00 AM
+---------------------------------------------
+Total Present: 5
++
